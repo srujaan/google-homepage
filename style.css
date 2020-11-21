@@ -4,3 +4,14 @@ img {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+form {
+    position: fixed;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+input {
+    border-color: orangered;
+}
