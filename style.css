@@ -15,7 +15,7 @@ form {
 
 input {
     height: 43px;
-    width: 560px;
+    width: 530px;
     border-radius: 30px;
     border-style: solid;
     text-transform: capitalize;
@@ -79,4 +79,36 @@ form:hover {
     top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.top {
+    position: absolute;
+    top: 1.5%;
+    right: 2%;
+    bottom: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gmail {
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+    margin: 11px 3px;
+    font-size: 13px;
+}
+
+.images {
+    text-decoration: none;
+    color: rgba(0,0,0,0.87);
+    margin: 11px 3px;
+    font-size: 13px;
+}
+
+.signin {
+    font-weight: bold;
+    background: #4285f4;
+    padding: 8px 18px;
+    color: #ffffff;
+    border-style: none;
+
+
 }
