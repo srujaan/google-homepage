@@ -46,6 +46,7 @@ form:hover {
     border-style: solid;
     cursor: pointer;
     border: 1px solid #f8f9fa;
+    
 }
 .Google-Search:hover {
     box-shadow: 0px 0px 0.5px;
@@ -71,4 +72,11 @@ form:hover {
 .feeling-lucky:hover {
     box-shadow: 0px 0px 0.5px;
     border-radius: 4px;
+}
+
+#buttons {
+    position: fixed;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
