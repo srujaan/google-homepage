@@ -15,7 +15,7 @@ form {
 
 input {
     height: 43px;
-    width: 530px;
+    width: 555px;
     border-radius: 30px;
     border-style: solid;
     text-transform: capitalize;
@@ -43,7 +43,7 @@ form:hover {
     line-height: 27px;
     min-width: 54px;
     margin: 11px 4px;
-    border-style: solid;
+    border-style: none;
     cursor: pointer;
     border: 1px solid #f8f9fa;
     
